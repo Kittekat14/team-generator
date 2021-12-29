@@ -9,6 +9,7 @@ It's a basic project that was generated with the [Angular CLI](https://github.co
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Or you open the development server by `ng serve -o`, then the tab will open itself on port 4200 in your standard browser.
 
 ## Code scaffolding
 
